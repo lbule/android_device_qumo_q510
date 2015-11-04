@@ -1,6 +1,6 @@
 #ifndef _BDROID_BUILDCFG_H
 #define _BDROID_BUILDCFG_H
 
-#define BTM_DEF_LOCAL_NAME   "Qumo Quest 510"
+#define BTM_DEF_LOCAL_NAME   "QUMO QUEST 510"
 
 #endif
